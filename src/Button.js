@@ -23,20 +23,18 @@ class Button extends Component {
   }
 
   logFormDataToConsole(event) {
-    console.log(this.props.formValues);
+    console.log('Form Values', this.props.formValues);
+    this.setState({ isClicked: true });
   }
 
   render() {
-    const recipient = `mailto:${this.props.email}`;
-    const subject = '?subject=Interested%20Client';
-    const body = `&body=${this.props.formValues.message}`;
     return (
-      <a
-        href={`${recipient}${subject}${body}`}
+      <button
+        disabled={this.state.isClicked}
         onClick={this.logFormDataToConsole}
       >
         Contact Us
-      </a>
+      </button>
     );
   }
 }
