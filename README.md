@@ -26,5 +26,9 @@ You will now be navigated to [localhost:3000](http://localhost:3000), where your
 
 [YouTube Video | Part 2](https://youtu.be/0pevQEc-dMM)
 
+## Part 3
+
+[YouTube Video | Part 3](https://www.youtube.com/watch?v=e0ZUImgcl_s)
+
 ## Questions?
 Message me on [slack](adamshallie.slack.com) or ask for an [invite](mailto:kgadams93@gmail.com?subject=Add%20me%20on%20slack) with your email.
