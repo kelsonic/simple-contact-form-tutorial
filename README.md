@@ -24,13 +24,11 @@ You will now be navigated to [localhost:3000](http://localhost:3000), where your
 
 ## Part 2
 
-(Uploading...)
-[YouTube Video | Part 2]()
+[YouTube Video | Part 2](https://youtu.be/pq6kLLQH49I)
 
 ## Part 3
 
-(Uploading...)
-[YouTube Video | Part 3]()
+[YouTube Video | Part 3](https://youtu.be/J8uJq_A6l7g)
 
 ## Part 4
 
